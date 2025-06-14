@@ -9,7 +9,7 @@ A modern, cross-platform mobile application powered by **React Native**, **Expo*
 | Technology        | Logo                                             | Description                                 |
 |------------------|--------------------------------------------------|---------------------------------------------|
 | React Native      | ![React Native](./assets/logos/react-native.png) | Cross-platform app development framework    |
-| Expo (v53)        | ![Expo](./assets/logos/expo.svg)                | Development platform for React Native       |
+| Expo (v53)        | ![Expo](./assets/logos/expo-logo-png_seeklogo-478757.png)                | Development platform for React Native       |
 | TypeScript        | ![TypeScript](./assets/logos/typescript.svg)    | Strongly typed JavaScript for reliability   |
 
 ---
