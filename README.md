@@ -6,18 +6,9 @@ A modern, cross-platform mobile application powered by **React Native**, **Expo*
 
 ## 📦 Core Technologies
 
-| Technology        | Logo                                             | Description                                 |
-|------------------|--------------------------------------------------|---------------------------------------------|
-| React Native      | <img src="./assets/logos/typescript.svg" alt="TypeScript" width="40" height="40">
- | Cross-platform app development framework    |
-| Expo (v53)        | <img src="./assets/logos/typescript.svg" alt="TypeScript" width="40" height="40">
-                | Development platform for React Native       |
-| TypeScript        | <img src="./assets/logos/typescript.svg" alt="TypeScript" width="40" height="40">
-    | Strongly typed JavaScript for reliability   |
-
----
-
-## 📚 Major Libraries & Dependencies
+React Native - Mobile app development framework
+Expo (v53) - React Native development platform
+TypeScript - Programming language
 
 ### 1. 🔀 Navigation & Routing
 - `expo-router` (v5.1.0) — File-based routing system
